@@ -5,7 +5,7 @@
   "main": "index.js",
   "directories": {
     "lib": "lib",
-    "test": "jest"
+    "test": "test"
   },
   "scripts": {
     "test": "jest",
@@ -20,5 +20,13 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "jest": "^24.7.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkerchristian/tdd-array-quiz-retake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parkerchristian/tdd-array-quiz-retake/issues"
+  },
+  "homepage": "https://github.com/parkerchristian/tdd-array-quiz-retake#readme"
 }
